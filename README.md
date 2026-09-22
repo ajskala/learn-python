@@ -73,3 +73,6 @@ must be valid identifiers (no hyphens, no leading digit), which is why it's
 3. **`lesson03_unions_and_pattern_matching`** — union types, `match`/`case`
    structural pattern matching, class-based discriminated unions (no "kind" tag
    needed), and exhaustiveness checking with `typing.assert_never`.
+4. **`lesson04_functions_generics_overloads`** — default/keyword-only params,
+   `*args`, PEP 695 generic functions and classes, generic constraints via
+   `Sized`, and `@overload`.
